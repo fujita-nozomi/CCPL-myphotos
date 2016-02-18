@@ -1,2 +1,2 @@
-# Lib-sunshine
-Lib-sunshine is main program for Lib-aqours
+# CCPL-myphotos
+just myphotos
